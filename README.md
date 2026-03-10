@@ -1,2 +1,1 @@
-# smartercode.github.io
-Smarter Code Ltd.
+# Smarter Code Ltd.
